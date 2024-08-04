@@ -22,11 +22,13 @@ Users can view detailed ingredients and instructions for each recipe in a popup 
 
 ## File Structure
 
-index.html: Contains the HTML structure of the web page.
-
-style.css: Contains the CSS styles for the application.
-
-script.js: Contains the JavaScript code for API interaction and DOM manipulation.
+```
+.
+├── index.html   Contains the HTML structure of the web page.
+├── Makefile     Startup script of node js server (make up)
+├── script.js    Contains the JavaScript code for API interaction and DOM manipulation.
+└── style.css    Contains the CSS styles for the application.
+```
 
 External Resources: Font Awesome CDN for icons used in the app.
 
