@@ -4,9 +4,9 @@ The Recipe App is a web application that allows users to search for recipes by m
 It fetches recipe data from an external API and displays the results dynamically on the web page. 
 Users can view detailed ingredients and instructions for each recipe in a popup window.
 
-Table of Contents
+> Table of Contents
 
-1.File Structure
+[1.File Structure](#file-structure)
 
 2.HTML Structure
 
@@ -20,7 +20,7 @@ Table of Contents
 
 7.Notes
 
-File Structure
+## File Structure
 
 index.html: Contains the HTML structure of the web page.
 
