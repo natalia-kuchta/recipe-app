@@ -1,4 +1,4 @@
-Recipe App
+# Recipe App
 
 The Recipe App is a web application that allows users to search for recipes by meal name. 
 It fetches recipe data from an external API and displays the results dynamically on the web page. 
