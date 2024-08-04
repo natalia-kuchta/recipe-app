@@ -64,6 +64,8 @@ View Recipe Details: Click "View Recipe" on any recipe card to see detailed ingr
 
 Close Recipe Popup: Click the "X" button in the recipe details popup to close it.
 
+![Screenshot from 2024-08-04 12-18-17](https://github.com/user-attachments/assets/84d9b030-dc61-4a5a-bc51-1648845754c8)
+
 ## External Resources
 
 Font Awesome: Used for the close button icon.
