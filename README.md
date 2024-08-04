@@ -8,17 +8,17 @@ Users can view detailed ingredients and instructions for each recipe in a popup 
 
 [1.File Structure](#file-structure)
 
-2.HTML Structure
+[2.HTML Structure](#html-structure)
 
-3.JavaScript Functionality
+[3.JavaScript Functionality](#javascript-functionality-exaple)
 
-4.CSS Styling
+[4.CSS Styling](#css-styling-exaple)
 
-5.Usage
+[5.Usage](#usage)
 
-6.External Resources
+[6.External Resources](#external-resources)
 
-7.Notes
+[7.Notes](#notes)
 
 ## File Structure
 
